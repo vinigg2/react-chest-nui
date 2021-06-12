@@ -1,4 +1,4 @@
-# Neutron - ReactJS Template
+# Chest - ReactJS Template Chest FIVEM
 
 This template was created to ease the development of new ReactJS projects.
 
